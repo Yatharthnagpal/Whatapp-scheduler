@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhatsApp Scheduler</string>
+    <string name="accessibility_service_description">Automates sending pre-filled WhatsApp messages for personal schedules.</string>
+</resources>
+
